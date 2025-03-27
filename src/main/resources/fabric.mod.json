@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "creative-loot-table",
+  "version": "1.0.0",
+  "name": "Creative loot tables",
+  "description": "Easy access to your LootTable items in your creative inventory.",
+  "authors": ["Ebluz"],
+  "contact": {
+    "sources": "https://github.com/MelEdur/Creative-Loot-Tables"
+  },
+  "license": "MIT",
+  "icon": "assets/creative-loot-table/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [],
+    "main": [
+      "me.Ebluz.creativeLootTable.CreativeLootTable"
+    ]
+  },
+  "depends": {}
+}
